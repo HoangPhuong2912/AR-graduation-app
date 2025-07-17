@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="supercomputer" size="10.272500 6.747622" />
+    <ImageTarget name="robot" size="10.272500 14.254987" />
+    <ImageTarget name="arm" size="10.272470 10.272470" />
+    <ImageTarget name="microchip" size="10.272470 7.683808" />
+    <ImageTarget name="heart" size="10.272470 11.101206" />
+    <ImageTarget name="graphiccard" size="10.272470 6.836506" />
+    <ImageTarget name="engine" size="10.272470 8.217977" />
+    <ImageTarget name="building" size="10.272470 6.773410" />
+    <ImageTarget name="brain" size="10.272470 8.263632" />
+    <ImageTarget name="bridge" size="10.272470 6.845638" />
+  </Tracking>
+</QCARConfig>
